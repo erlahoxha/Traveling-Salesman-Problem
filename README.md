@@ -4,7 +4,7 @@ This project explores two nature-inspired optimization techniques — **Genetic 
 
 ## 📄 Project Paper
 A full research paper detailing the methodology, experiments, results, and comparative analysis is included in this repository as a PDF file:
-- **[Download Paper](./TSP_Research_Paper.pdf)**
+👉 [**Download Paper**](Traveling%20Salesman%20Problem%20Paper.pdf)*
 
 ## 📂 Files Included
 - `gaTSP.py` — Implementation of TSP using Genetic Algorithm
