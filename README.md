@@ -26,7 +26,6 @@ A full research paper detailing the methodology, experiments, results, and compa
 
 ## 👩‍💻 Author
 **Erla Hoxha**  
-Business Informatics, Epoka University  
 📧 erlahoxha04@gmail.com  
 📅 February 2025
 
